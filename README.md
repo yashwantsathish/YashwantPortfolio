@@ -12,4 +12,5 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 4. Deduced appropriate graph (double line) to compare proficiency between 2 players.
     * Used handoff & off-screen shooting to approximate 'movement shooting' ability. 
 5. Touched-up in Canva for user-friendliness.
+
 ![Mavs Movement Shooting](MavsMovementShooting.png)
