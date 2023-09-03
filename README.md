@@ -15,7 +15,7 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 
 ![Mavs Movement Shooting](MavsMovementShooting.png)
 
-## Project 2: Connective Passing
+## Project 2: Measuring 'Connective Passing' to Explain the Success of the Sacramento Kings' Offensive System
 
 ![Kings' Connective Passing](KingsConnectivePassing.png)
 
