@@ -8,18 +8,19 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 
 1. Scraped 450+ values from 2 data tables (playtype data for Handoffs/Off-screen) from Synergy Sports.
 2. Performed Data Cleaning in Excel to remove errors, duplicates, and irrelevant data from raw datasets.
-3. Imported data to Tableau and related the tables via outer join. Related by player name.
+3. Imported data to Tableau and related the tables via outer join -- related by player name.
 4. Deduced appropriate graph (double line) to compare proficiency between 2 players.
-    * Used handoff & off-screen shooting to approximate 'movement shooting' ability. 
+    * Used handoff & off-screen shooting as approximation of 'movement shooting' ability. 
 5. Touched-up in Canva for user-friendliness.
 
 ![Mavs Movement Shooting](MavsMovementShooting.png)
 
+## Project 2: Connective Passing
 
-## Project 2: Rebounding
+![Kings' Connective Passing](connective passers.png)
 
 ## Project 3: Rim Protection
 
-## Project 4: Connective Passing
+## Project 4: Rebounding (Tableau)
 
 ## Project 5: Warriors Touches
