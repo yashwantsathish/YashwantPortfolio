@@ -17,7 +17,7 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 
 ## Project 2: Connective Passing
 
-![Kings' Connective Passing](connectivepassers.png)
+![Kings' Connective Passing](KingsConnectivePassing.png)
 
 ## Project 3: Rim Protection
 
