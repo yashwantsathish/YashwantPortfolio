@@ -16,6 +16,11 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 ![Mavs Movement Shooting](MavsMovementShooting.png)
 
 ## Project 2: Measuring 'Connective Passing' to Explain the Success of the Sacramento Kings' Offensive System
+Code:
+
+1. Pulled/Scraped 600+ data values from stats.nba.com API (using py_ball python wrapper) and basketball-reference.com.
+2. Imported data into Python DataFrames and cleaned data to remove errors, duplicates, and irrelevant values.
+3. 
 
 ![Kings' Connective Passing](KingsConnectivePassing.png)
 
