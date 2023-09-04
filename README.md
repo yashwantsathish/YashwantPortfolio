@@ -48,5 +48,5 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 2. Performed calculations in Excel to filter by query (>= 20 touches for each team) and aggregate count for each team.
 3. Imported Data into Tableau. Deduced that bar chart was appropriate and graphed.
 4. Touched-up in Canva for user-friendliness.
-5. 
+
 ![WarriorsTouches](WarriorsTouches.jpeg)
