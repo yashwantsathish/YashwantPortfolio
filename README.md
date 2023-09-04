@@ -1,6 +1,6 @@
 # Yashwant Kannan Sathish Kumar - Data Analytics Portfolio
 
-Hi, I'm Yashwant! I'm a 3rd-year Computer Science major at Cal Poly SLO with a burgeoning passion for data analytics. I've united this passion with my interest in NBA basketball to produce several data analytics projects, utilizing data to derive insight to improve game strategy and roster development. This repository serves to showcase my skills and as a platform to share my projects + track my progress in Data Analytics and Data Science-related topics.
+Hi, I'm Yashwant! I'm a 3rd-year Computer Science major at Cal Poly SLO with a burgeoning passion for data analytics. I've united this passion with my interest in NBA basketball to produce several data analytics projects, utilizing data to derive insight to improve game strategy and roster construction. This repository serves to showcase my skills and as a platform to share my projects + track my progress in Data Analytics and Data Science-related topics.
 
 ## Project 1: Analyzing Movement Shooting Proficiency to Explain the Thinking Behind a Playoff Coaching Adjustment
 
@@ -17,16 +17,21 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 
 ## [Project 2: Measuring 'Connective Passing' to Explain the Success of the Sacramento Kings' Offensive System](https://github.com/yashwantsathish/Connective-Passing-Analysis/tree/main)
 
-1. Pulled/Scraped 600+ data values from stats.nba.com API (using py_ball python wrapper) and basketball-reference.com.
-2. Imported data into Python as Pandas DataFrames and cleaned data to remove errors, duplicates, and irrelevant values.
+1. Pulled/Scraped 600+ data values from stats.nba.com API (using py_ball python wrapper) and basketball-reference.com. Extracted 'Touches' and 'Passing' data. 
+2. Imported data into Python as Pandas DataFrames and cleaned to remove errors, duplicates, and irrelevant values.
 3. Merged dataframes by player name using Pandas functionality.
-4. Used Python libraries Seaborn and Matplotlib to create scatterplot plotting 'Assist %' against 'Time of Possession'. 
+4. Deduced that scatterplot was appropriate & used Python libraries Seaborn and Matplotlib to plot 'Assist %' against 'Time of Possession'. 
 5. Used Python's NumPy library to generate and plot line of best fit -- meant to denote 'average' connective passing ability.
 6. Touched-up in Canva for user-friendliness.
 
 ![Kings' Connective Passing](KingsConnectivePassing.png)
 
-## Project 3: Rim Protection
+## Project 3: Finding a Measure for 'Rim Protection Ability' to Identify the Best Rim Protectors in the NBA
+1. Pulled 500+ data values from stats.nba.com API (using nba_api API Client). Extracted 'defensive' data for opponent shots taken within 6 feet of the basket (rim). 
+2. Structured data into Python DataFrame and cleaned to remove errors, duplicates, and irrelevant values.
+3. Deduced that horizontal bar chart was appropriate & used Python Library Plotly to plot 'PCTDiff' for each player (% effect on opponent shooting % within 6 ft).
+
+![Rim Protection](RimProtection.png)
 
 ## Project 4: Rebounding (Tableau)
 
