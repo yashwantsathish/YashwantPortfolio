@@ -38,8 +38,15 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 2. Performed Data Cleaning in Excel to remove errors, duplicates, and irrelevant data from raw datasets.
 3. Imported data from Excel into Python as Pandas DataFrame.
 4. Deduced that scatterplot was most appropriate & used Python libraries Seaborn and Matplotlib to plot 'OREB% against 'DREB%'.
-5. Plotted a 'box' using matplotlib to denote the most well-rounded rebounders (>= 85th percentile OREB% & DREB%).
+5. Calculated the 85th percentile marks for OREB% and DREB% and plotted a 'box' enclosing these values using matplotlib to denote the most well-rounded rebounders.
 
 ![Rebounding](Rebounding.png)
 
 ## Project 5: Warriors Touches
+
+1. Scraped 30 rows of data from stats.nba.com API (using nba_api API Client) into Excel. Extracted "Touches" data for each team roster.
+2. Performed calculations in Excel to filter by query (>= 20 touches for each team) and aggregate count for each team.
+3. Imported Data into Tableau. Deduced that bar chart was appropriate and graphed.
+4. Touched-up in Canva for user-friendliness.
+5. 
+![WarriorsTouches](WarriorsTouches.jpeg)
