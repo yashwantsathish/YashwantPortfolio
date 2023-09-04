@@ -28,11 +28,18 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 
 ## Project 3: Finding a Measure for 'Rim Protection Ability' to Identify the Best Rim Protectors in the NBA
 1. Pulled 500+ data values from stats.nba.com API (using nba_api API Client). Extracted 'defensive' data for opponent shots taken within 6 feet of the basket (rim). 
-2. Structured data into Python DataFrame and cleaned to remove errors, duplicates, and irrelevant values.
+2. Structured data into Python Pandas DataFrame and cleaned to remove errors, duplicates, and irrelevant values (ex. based on position).
 3. Deduced that horizontal bar chart was appropriate & used Python Library Plotly to plot 'PCTDiff' for each player (% effect on opponent shooting % within 6 ft).
 
 ![Rim Protection](RimProtection.png)
 
-## Project 4: Rebounding (Tableau)
+## Project 4: Identifying the Best & Most Well-Rounded Guard Rebounders in the NBA
+1. Scraped 100+ data values from Basketball Reference data table (rebounding data) to Excel.  
+2. Performed Data Cleaning in Excel to remove errors, duplicates, and irrelevant data from raw datasets.
+3. Imported data from Excel into Python as Pandas DataFrame.
+4. Deduced that scatterplot was most appropriate & used Python libraries Seaborn and Matplotlib to plot 'OREB% against 'DREB%'.
+5. Plotted a 'box' using matplotlib to denote the most well-rounded rebounders (>= 85th percentile OREB% & DREB%).
+
+![Rebounding](Rebounding.png)
 
 ## Project 5: Warriors Touches
