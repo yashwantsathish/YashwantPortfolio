@@ -42,10 +42,10 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 
 ![Rebounding](Rebounding.png)
 
-## Project 5: Warriors Touches
+## Project 5: Measuring Offensive 'Involvedness' Across a Roster to Explain the Benefits of the Warriors' 'Motion Offense'  
 
 1. Scraped 30 rows of data from stats.nba.com API (using nba_api API Client) into Excel. Extracted "Touches" data for each team roster.
-2. Performed calculations in Excel to filter by query (>= 20 touches for each team) and aggregate count for each team.
+2. Performed calculations in Excel to filter by query (>= 20 touches for each team) and aggregated count for each team.
 3. Imported Data into Tableau. Deduced that bar chart was appropriate and graphed.
 4. Touched-up in Canva for user-friendliness.
 
