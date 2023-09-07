@@ -44,6 +44,8 @@ Writeup: https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-interse
 
 ## Project 5: Measuring Offensive 'Involvedness' Across a Roster to Explain the Benefits of the Warriors' 'Motion Offense'  
 
+Twitter Writeup: https://twitter.com/Mathketball1/status/1558086524297654272
+
 1. Scraped 30 rows of data from stats.nba.com API (using nba_api API Client) into Excel. Extracted "Touches" data for each team roster.
 2. Performed calculations in Excel to filter by query (>= 20 touches for each team) and aggregated count for each team.
 3. Imported Data into Tableau. Deduced that bar chart was appropriate and graphed.
