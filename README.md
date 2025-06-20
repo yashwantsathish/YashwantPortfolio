@@ -6,7 +6,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with a growi
 
 ## [Project 1: NBA Draft Hub – A Full-Stack Application for Scouting Draft Prospects](https://github.com/yashwantsathish/Mavs-Draft-Hub)
 
-**Live Demo:** [Mavs Draft Hub](https://mavs-draft-hub.netlify.app)  
+**Live Demo:** [Mavs Draft Hub](https://mavsdrafthub-yash.netlify.app/)  
 1. Built a responsive full-stack application using **React**, **Material UI**, and **Vite** to showcase draft prospects.  
 2. Designed the UI with sortable and searchable tables, player profile pages, and custom visual indicators for key metrics.  
 3. Parsed and processed JSON-based player data with filtering logic and clean UX.  
