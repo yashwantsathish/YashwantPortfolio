@@ -13,7 +13,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with a growi
 4. Built with scalability in mind to support multiple draft classes and front office customization.  
 5. Prioritized fast load times and mobile-friendly layout for real-world basketball ops use.
 
-![Mavs Draft Hub](https://user-images.githubusercontent.com/100899978/271867317-1f0e80b5-9b8a-4179-842c-1d7f2a51e7ef.png)
+![Mavs Draft Hub](MavsDraftHubSS.png)
 
 ---
 
