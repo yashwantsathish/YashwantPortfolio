@@ -19,7 +19,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ## [Project 2: Defensive Efficiency – A Multi-Season Analysis of Key Predictors](https://github.com/yashwantsathish/Defensive-Factors-Analysis)
 
-1. Conducted a regression analysis across 5 NBA seasons (2020–21 to 2024–25) to determine which defensive stats most strongly affect Defensive Rating.  
+1. Conducted a regression analysis across 5 NBA seasons (2020–21 to 2024–25) to determine which defensive stats most strongly affect Defensive Rating. Helped Cal Poly Coaching Staff develop defensive system accordingly.
 2. Used `hoopR` to scrape NBA Stats API for advanced and opponent data, engineered metrics like Opponent eFG%, Turnover %, and FT Rate.  
 3. Built a multiple regression model with season fixed effects and standardized coefficients to compare impact.  
 4. Visualized findings using `ggplot2` to clearly communicate results to coaches — emphasizing shot quality and turnovers as the top defensive levers.  
