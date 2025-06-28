@@ -4,14 +4,14 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 1: NBA Draft Hub – App Housing Scouting Info For Front Office Decision Makers](https://github.com/yashwantsathish/Mavs-Draft-Hub)
+## [Project 1: NBA Draft Hub – Scouting Application for NBA Front Office Decision Makers](https://github.com/yashwantsathish/Mavs-Draft-Hub)
 
 **Live Demo:** [Mavs Draft Hub](https://mavsdrafthub-yash.netlify.app/)  
-1. Built a responsive full-stack application using **React**, **Material UI**, and **Vite** to showcase draft prospects in a Big Board and Player Profile view.  
-2. Designed the UI with sortable and searchable tables, player profile pages, and custom visual indicators for key metrics.  
-3. Parsed and processed JSON-based player data with filtering logic and clean UX.  
-4. Built with scalability in mind to support multiple draft classes and front office customization.  
-5. Prioritized fast load times and mobile-friendly layout for real-world basketball ops use.
+1. Developed a fully responsive, data-driven scouting interface using React (Vite) and Material UI, inspired by real front office workflows.
+2. Implemented an interactive Big Board sortable by individual scouts or average rank, with color-coded indicators to highlight divergent opinions across scouts.
+3. Created intuitive Player Profile views featuring toggles for counting, scoring, and total stats—minimizing cognitive load while offering flexible detail.
+4. Leveraged JSON-driven architecture and React hooks to support scalable draft classes and in-browser scouting note submissions.
+5. Designed with Mavericks branding, real-time UX feedback loops, and device compatibility to simulate realistic team tool adoption.
 
 ![Mavs Draft Hub](MavsDraftHubSS.png)
 
