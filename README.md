@@ -4,19 +4,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 1: NBA Draft Hub – Scouting Application for NBA Front Office Decision Makers](https://github.com/yashwantsathish/Mavs-Draft-Hub)
-
-**Live Demo:** [Mavs Draft Hub](https://mavsdrafthub-yash.netlify.app/)  
-1. Developed a fully responsive, data-driven scouting interface using React (Vite) and Material UI, inspired by real front office workflows.
-2. Implemented an interactive Big Board sortable by individual scouts or average rank, with color-coded indicators to highlight divergent opinions across scouts.
-3. Created intuitive Player Profile views featuring toggles for counting, scoring, and total stats—minimizing cognitive load while offering flexible detail.
-4. Leveraged JSON-driven architecture and React hooks to support scalable draft classes and in-browser scouting note submissions.
-5. Designed with Mavericks branding, real-time UX feedback loops, and device compatibility to simulate realistic team tool adoption.
-
-![Mavs Draft Hub](MavsDraftHubSS.png)
-
----
-## Project 2: Cal Poly MBB: Coaching Analytics Web Applications
+## Project 1: Cal Poly MBB: Coaching Analytics Web Applications
 
 1. [Scrimmage Tracking Analysis App](https://258pb5-yashwant-sathish.shinyapps.io/CalPolySpringStatting/) 
 - Built a custom R Shiny app to visualize and analyze player performance during Cal Poly Men's Basketball spring scrimmages using shot tracking and possession-level data.
@@ -36,6 +24,30 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 - Performs dynamic computations on the fly—automatically calculating points scored/allowed, possessions, efficiency, and on/off metrics for every unique lineup.
 - Uses `dplyr`, `tidyr`, and `reactable` to transform raw logs into sortable, filterable tables that help coaches assess chemistry, impact, and rotational strength in real time.
 
+---
+
+## Project 2: Calgary Surge: Coaching Analytics Web Applications
+
+1. [Cut Slide Reporting App](https://yashwantsathish.shinyapps.io/SurgeCutSlideReport/) 
+
+2. [Possession Analysis Reporting App](https://258pb5-yashwant-sathish.shinyapps.io/CalPolyMBBCognitiveTracking/)
+
+
+---
+
+## [Project 2: NBA Draft Hub – Scouting Application for NBA Front Office Decision Makers](https://github.com/yashwantsathish/Mavs-Draft-Hub)
+
+**Live Demo:** [Mavs Draft Hub](https://mavsdrafthub-yash.netlify.app/)  
+1. Developed a fully responsive, data-driven scouting interface using React (Vite) and Material UI, inspired by real front office workflows.
+2. Implemented an interactive Big Board sortable by individual scouts or average rank, with color-coded indicators to highlight divergent opinions across scouts.
+3. Created intuitive Player Profile views featuring toggles for counting, scoring, and total stats—minimizing cognitive load while offering flexible detail.
+4. Leveraged JSON-driven architecture and React hooks to support scalable draft classes and in-browser scouting note submissions.
+5. Designed with Mavericks branding, real-time UX feedback loops, and device compatibility to simulate realistic team tool adoption.
+
+![Mavs Draft Hub](MavsDraftHubSS.png)
+
+---
+
 ## [Project 3: Defensive Efficiency – A Multi-Season Analysis of Key Predictors](https://github.com/yashwantsathish/Defensive-Factors-Analysis)
 
 1. Conducted a regression analysis across 5 NBA seasons (2020–21 to 2024–25) to determine which defensive stats most strongly affect Defensive Rating. Helped Cal Poly Coaching Staff develop defensive system accordingly.
@@ -46,6 +58,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ![Defensive Efficiency](DefensiveFactors.png)
 
+---
 
 ## [Project 4: Analyzing Movement Shooting Proficiency to Explain the Thinking Behind a Playoff Coaching Adjustment](https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-intersect-how-a-defensive-change-gave-the-warriors-an-edge-in-the-2022-nba-playoffs/)
 
