@@ -30,7 +30,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 1. [Cut Slide Reporting App](https://yashwantsathish.shinyapps.io/SurgeCutSlideReport/) 
 
-2. [Possession Analysis Reporting App](https://258pb5-yashwant-sathish.shinyapps.io/CalPolyMBBCognitiveTracking/)
+2. [Possession Analysis Reporting App](https://yashwantsathish.shinyapps.io/SurgePossessionAnalysis/)
 
 
 ---
