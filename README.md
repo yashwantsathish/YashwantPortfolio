@@ -1,4 +1,4 @@
-# Yashwant Kannan Sathish Kumar – Software/Data Analysis Portfolio
+# Yashwant Sathish Kumar – Software/Data Analysis Portfolio
 
 Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an immense passion for software engineering and data analytics. I've combined this with my love for NBA basketball to develop several analytics-driven projects that aim to improve game strategy and roster construction. This repository showcases my technical skillset and project evolution across data visualization, statistical modeling, and full-stack development.
 
