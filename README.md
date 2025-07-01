@@ -28,11 +28,18 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ## Project 2: Calgary Surge: Coaching Analytics Web Applications
 
-1. [Cut Slide Reporting App](https://yashwantsathish.shinyapps.io/SurgeCutSlideReport/) 
+1. [Cut Slide Reporting App](https://yashwantsathish.shinyapps.io/SurgeCutSlideReport/)
+- Built a Shiny app to analyze execution of the “cut slide” spacing concept, categorizing opportunities as either “push” (corner cuts + wing drift) or “dive” (wing dive + corner fill).
+- Implemented an automated analytics pipeline: ingesting self-tagged play-by-play data from Hudl Sportscode, cleaning it in R, and computing execution rates and opportunity frequency by game and overall.
+- Dynamically breaks down cut slide performance by game, situation type, and execution correctness, enabling coaches to quickly spot spacing issues or successes.
+- Delivered an interactive dashboard, transforming data into interpretable visuals and statistics. Used in film sessions and team meetings to reinforce spacing discipline and concept alignment.
 
-2. [Possession Analysis Reporting App](https://yashwantsathish.shinyapps.io/SurgePossessionAnalysis/)
-
-
+3. [Possession Analysis Reporting App](https://yashwantsathish.shinyapps.io/SurgePossessionAnalysis/)
+- Designed and built an R Shiny app to analyze possession margin and points per 100 possessions (offensive efficiency) across 12 CEBL games.
+- Personally tagged each possession in Sportscode, exported raw data to Google Sheets, and automated ingestion into R using `googlesheets4`, `dplyr`, and `janitor`.
+- Computed game-level metrics dynamically—efficiency differential, possession differential, and win/loss alignment—and visualized them using `plotly` bar charts and interpretation zones (Green, Yellow, Red).
+- Created an interactive, auto-updating dashboard that I presented in Coaches' meeting: allowed coaches to adjust gameplan based on which game contexts lead to winning outcomes.
+    
 ---
 
 ## [Project 2: NBA Draft Hub – Scouting Application for NBA Front Office Decision Makers](https://github.com/yashwantsathish/Mavs-Draft-Hub)
