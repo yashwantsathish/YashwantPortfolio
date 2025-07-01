@@ -16,8 +16,27 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 ![Mavs Draft Hub](MavsDraftHubSS.png)
 
 ---
+## Project 2: Cal Poly MBB: Coaching Analytics Web Applications
 
-## [Project 2: Defensive Efficiency – A Multi-Season Analysis of Key Predictors](https://github.com/yashwantsathish/Defensive-Factors-Analysis)
+1. [Scrimmage Tracking Analysis App](https://258pb5-yashwant-sathish.shinyapps.io/CalPolySpringStatting/) 
+- Built a custom R Shiny app to visualize and analyze player performance during Cal Poly Men's Basketball spring scrimmages using shot tracking and possession-level data.
+- Developed an automated pipeline pulling raw stats from spreadsheets into R using `googlesheets4`, then cleaned and transformed the data with `dplyr` and `tidyr` for accurate, real-time reporting.  
+- Key tabs include opportunity breakdowns by game, percent correct execution, and 1v1 situation success rates -- optimized for use on laptop, tablet, and phone.
+- Streamlined staff workflows by automating visual summaries and trend identification, used in 1v1 coaching sessions with players and presented to team daily in practice.
+
+2. [Cognitive Tracking Application](https://258pb5-yashwant-sathish.shinyapps.io/CalPolyMBBCognitiveTracking/)
+- Built a fully automated pipeline from Google Sheets (coach-tagged cognitive reads) into a polished R Shiny app using `googlesheets4`, `dplyr`, and `tidyr` for real-time data ingestion and cleaning.  
+- Designed dynamic filters by player, drill type, and decision category to support fast, scenario-specific cognitive review.  
+- Created responsive visualizations and interactive tables with `reactable`, `plotly`, and `shinyWidgets`: accessible across tablets, laptops, and phones.  
+- Enabled coaching staff to move from raw inputs to clear, actionable insights within minutes—streamlining film sessions, practice prep, and individualized feedback.
+
+3. [Lineup Tracking Application](https://258pb5-yashwant-sathish.shinyapps.io/lineup_tracking_app/)
+- Developed an R Shiny app to analyze player lineup combinations and group performance during practices and scrimmages.
+- Supports flexible data input: coaches can log lineup data via a connected Google Sheet or enter it directly through the app’s built-in form interface.
+- Performs dynamic computations on the fly—automatically calculating points scored/allowed, possessions, efficiency, and on/off metrics for every unique lineup.
+- Uses `dplyr`, `tidyr`, and `reactable` to transform raw logs into sortable, filterable tables that help coaches assess chemistry, impact, and rotational strength in real time.
+
+## [Project 3: Defensive Efficiency – A Multi-Season Analysis of Key Predictors](https://github.com/yashwantsathish/Defensive-Factors-Analysis)
 
 1. Conducted a regression analysis across 5 NBA seasons (2020–21 to 2024–25) to determine which defensive stats most strongly affect Defensive Rating. Helped Cal Poly Coaching Staff develop defensive system accordingly.
 2. Used `hoopR` to scrape NBA Stats API for advanced and opponent data, engineered metrics like Opponent eFG%, Turnover %, and FT Rate.  
@@ -28,7 +47,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 ![Defensive Efficiency](DefensiveFactors.png)
 
 
-## [Project 3: Analyzing Movement Shooting Proficiency to Explain the Thinking Behind a Playoff Coaching Adjustment](https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-intersect-how-a-defensive-change-gave-the-warriors-an-edge-in-the-2022-nba-playoffs/)
+## [Project 4: Analyzing Movement Shooting Proficiency to Explain the Thinking Behind a Playoff Coaching Adjustment](https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-intersect-how-a-defensive-change-gave-the-warriors-an-edge-in-the-2022-nba-playoffs/)
 
 1. Scraped 450+ values from Synergy playtype tables (handoffs/off-screen) and cleaned in Excel.  
 2. Built a Tableau dashboard using joined tables to compare player movement shooting.  
@@ -39,7 +58,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 4: Measuring 'Connective Passing' to Explain the Success of the Sacramento Kings' Offensive System](https://github.com/yashwantsathish/Connective-Passing-Analysis/tree/main)
+## [Project 5: Measuring 'Connective Passing' to Explain the Success of the Sacramento Kings' Offensive System](https://github.com/yashwantsathish/Connective-Passing-Analysis/tree/main)
 
 1. Scraped 600+ values from stats.nba.com and Basketball Reference.  
 2. Merged touch and passing data using Pandas, cleaned and filtered the dataset.  
@@ -51,7 +70,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 5: Finding a Measure for 'Rim Protection Ability'](https://github.com/yashwantsathish/Rim-Defense-Analysis)
+## [Project 6: Finding a Measure for 'Rim Protection Ability'](https://github.com/yashwantsathish/Rim-Defense-Analysis)
 
 1. Pulled 500+ shot defense values from the NBA API (shots within 6 feet).  
 2. Cleaned and structured data using Pandas.  
@@ -62,7 +81,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 6: Identifying the Best & Most Well-Rounded Guard Rebounders](https://github.com/yashwantsathish/Guard-Rebounding-Analysis)
+## [Project 7: Identifying the Best & Most Well-Rounded Guard Rebounders](https://github.com/yashwantsathish/Guard-Rebounding-Analysis)
 
 1. Scraped rebounding stats from Basketball Reference and cleaned in Excel.  
 2. Imported to Python, visualized OREB% vs DREB% using Seaborn and Matplotlib.  
@@ -72,7 +91,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## Project 7: Measuring Offensive 'Involvedness' Across a Roster
+## Project 8: Measuring Offensive 'Involvedness' Across a Roster
 
 **Twitter Writeup:** [See thread](https://twitter.com/Mathketball1/status/1558086524297654272)  
 1. Pulled roster-level touch data via NBA API into Excel.  
