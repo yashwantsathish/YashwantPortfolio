@@ -54,8 +54,15 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 ![Mavs Draft Hub](MavsDraftHubSS.png)
 
 ---
+## [Project 4: Reimagining NBA Player Roles Using Clustering](https://github.com/yashwantsathish/Reimagining-NBA-Player-Roles-Using-Clustering)
+1. Built a player classification system using K-Means clustering on rate-adjusted advanced stats from nbastatR (2016–2024), scraping over 4,900 player-seasons from Basketball-Reference.
+2. Identified 10 playstyle-based roles (e.g. “Offensive Generator”, “3 & D Wing”, “Interior Slasher”) that better reflect player contributions than traditional positions.
+3. Applied z-score normalization, the Elbow Method for k-selection, and statistical profiling to generate interpretable cluster names for use in scouting, substitution, and player comparison.
+4. Designed visuals (cluster centers, elbow plots) and explained results in coaching language—enabling better lineup decisions and role-based substitution strategies.
 
-## [Project 4: Cal Poly MBB: Automated Analytics Using Computer Vision](https://github.com/yashwantsathish/Automated-Basketball-Analytics-Using-Computer-Vision)
+![Clusters](Clusters.png)
+
+## [Project 5: Cal Poly MBB: Automated Analytics Using Computer Vision](https://github.com/yashwantsathish/Automated-Basketball-Analytics-Using-Computer-Vision)
 1. Built a Python-based Computer Vision system using YOLOv8 and OpenCV to automatically track shot attempts, release angles, and paint touches from raw practice video.
 2. Applied homography transformations to map player and ball positions from pixel space to real-world court coordinates.
 3. Calculated shot release angles using ball trajectory vectors and visualized with live overlays for coach-friendly film breakdowns.
@@ -65,7 +72,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
   <img src="PaintTouchDetectionEx.png" alt="Paint Touch Detection" width="48%" />
 </p>
 
-## [Project 5: Defensive Efficiency – A Multi-Season Analysis of Key Predictors](https://github.com/yashwantsathish/Defensive-Factors-Analysis)
+## [Project 6: Defensive Efficiency – A Multi-Season Analysis of Key Predictors](https://github.com/yashwantsathish/Defensive-Factors-Analysis)
 
 1. Conducted a regression analysis across 5 NBA seasons (2020–21 to 2024–25) to determine which defensive stats most strongly affect Defensive Rating. Helped Cal Poly Coaching Staff develop defensive system accordingly.
 2. Used `hoopR` to scrape NBA Stats API for advanced and opponent data, engineered metrics like Opponent eFG%, Turnover %, and FT Rate.  
@@ -77,7 +84,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 6: Analyzing Movement Shooting Proficiency to Explain the Thinking Behind a Playoff Coaching Adjustment](https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-intersect-how-a-defensive-change-gave-the-warriors-an-edge-in-the-2022-nba-playoffs/)
+## [Project 7: Analyzing Movement Shooting Proficiency to Explain the Thinking Behind a Playoff Coaching Adjustment](https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-intersect-how-a-defensive-change-gave-the-warriors-an-edge-in-the-2022-nba-playoffs/)
 
 1. Scraped 450+ values from Synergy playtype tables (handoffs/off-screen) and cleaned in Excel.  
 2. Built a Tableau dashboard using joined tables to compare player movement shooting.  
@@ -88,7 +95,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 7: Measuring 'Connective Passing' to Explain the Success of the Sacramento Kings' Offensive System](https://github.com/yashwantsathish/Connective-Passing-Analysis/tree/main)
+## [Project 8: Measuring 'Connective Passing' to Explain the Success of the Sacramento Kings' Offensive System](https://github.com/yashwantsathish/Connective-Passing-Analysis/tree/main)
 
 1. Scraped 600+ values from stats.nba.com and Basketball Reference.  
 2. Merged touch and passing data using Pandas, cleaned and filtered the dataset.  
@@ -100,7 +107,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 8: Finding a Measure for 'Rim Protection Ability'](https://github.com/yashwantsathish/Rim-Defense-Analysis)
+## [Project 9: Finding a Measure for 'Rim Protection Ability'](https://github.com/yashwantsathish/Rim-Defense-Analysis)
 
 1. Pulled 500+ shot defense values from the NBA API (shots within 6 feet).  
 2. Cleaned and structured data using Pandas.  
@@ -111,7 +118,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 9: Identifying the Best & Most Well-Rounded Guard Rebounders](https://github.com/yashwantsathish/Guard-Rebounding-Analysis)
+## [Project 10: Identifying the Best & Most Well-Rounded Guard Rebounders](https://github.com/yashwantsathish/Guard-Rebounding-Analysis)
 
 1. Scraped rebounding stats from Basketball Reference and cleaned in Excel.  
 2. Imported to Python, visualized OREB% vs DREB% using Seaborn and Matplotlib.  
@@ -121,7 +128,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## Project 10: Measuring Offensive 'Involvedness' Across a Roster
+## Project 11: Measuring Offensive 'Involvedness' Across a Roster
 
 **Twitter Writeup:** [See thread](https://twitter.com/Mathketball1/status/1558086524297654272)  
 1. Pulled roster-level touch data via NBA API into Excel.  
