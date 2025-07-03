@@ -84,7 +84,7 @@ Hi, I'm Yashwant! I'm a Computer Science graduate from Cal Poly SLO with an imme
 
 ---
 
-## [Project 7: Analyzing Movement Shooting Proficiency to Explain the Thinking Behind a Playoff Coaching Adjustment](https://matthewkjho.wordpress.com/2023/08/23/film-and-analytics-intersect-how-a-defensive-change-gave-the-warriors-an-edge-in-the-2022-nba-playoffs/)
+## [Project 7: Analyzing Movement Shooting Proficiency to Explain the Thinking Behind a Playoff Coaching Adjustment](https://yashwantsathish.wixsite.com/portfolio/post/film-and-analytics-intersect-how-a-defensive-change-gave-the-warriors-an-edge-in-the-2022-nba-playo)
 
 1. Scraped 450+ values from Synergy playtype tables (handoffs/off-screen) and cleaned in Excel.  
 2. Built a Tableau dashboard using joined tables to compare player movement shooting.  
